@@ -6,11 +6,11 @@
 
 ## 📝 Case Report
 
-- You can access the complete Python notebook here  
-➡️ **Ritesh_Walmart___Confidence_Interval_and_CLT.ipynb**
+- Access the Python notebook  
+➡️ [Python Notebook](Ritesh_Walmart___Confidence_Interval_and_CLT.ipynb)
 
-- You can access the complete case study report here  
-➡️ **Ritesh_Walmart__ _Confidence_Interval_and_CLT_Colab.pdf**
+- Access the full case study report  
+➡️ [Project Report](Ritesh_Walmart_Confidence_Interval_and_CLT_Colab.pdf)
 
 ---
 
